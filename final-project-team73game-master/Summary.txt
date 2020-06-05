@@ -1,0 +1,20 @@
+Project Name: Blackjack
+
+Team 73: Jeannie Chan, Michael Sangho Song, Matthew Spelman
+
+Project Summary:
+This is a Blackjack game for one-player against a computer dealer. The game employs a game play similar to casino games. For simplification, no Blackjack insurance is offered. The game has a user interface that uses the Java Swing library. 
+
+Actual Work Breakdown:
+1. Blackjack CRC (Jeannie Chan, Michael Sangho Song, Matthew Spelman)
+2. Blackjack GUI Design (Jeannie Chan, Matthew Spelman)
+3. Blackjack GUI Implementation & Refinement (Michael Sangho Song, Matthew Spelman)
+4. Card and Deck Logic (Michael Sangho Song)
+5. Score Logic (Jeannie Chan)
+6. jUnit Tests for Validation (Jeannie Chan)
+7. README.MD (Matthew Spelman)
+8. Summary.txt (Matthew Spelman)
+9. Testing and debugging all classes (Jeannie Chan, Michael Sangho Song, Matthew Spelman)
+10.Video demonstration (Matthew Spelman)
+
+GitHub Repository Link: https://github.com/UPenn-CIT599/final-project-team73game/
