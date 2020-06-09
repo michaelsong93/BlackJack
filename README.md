@@ -40,7 +40,7 @@ MCIT591 final-project-team73game created by GitHub Classroom
 1. The first step is to download the code repository to an IDE of your choice (i.e. Eclipse is preferred).
 2. After creating a new local project that stores the program codes, please right click on the "src" folder and select the "run" button in your IDE.
 3. After clicking "run" you will be prompted with a pop-up message that prompts you to play the game. Below is a screenshot:
-![](welcomeScreen.png)
+![welcomeScreen](https://user-images.githubusercontent.com/44761887/84121395-172c6300-aa72-11ea-98ed-6e510c399f27.png)
 4. After clicking the "OK" button a playing board will pop-up. Below is a screenshot:
 ![](InitialBoardScreen.png)
 5. In order to start playing the game, the player needs to select a Betting option of $5, 10, 15 or $20, and plays 10 rounds (as default) of Blackjack against the computer Dealer. Following this selection the player then clicks the "Bet" button in order for the initial cards to be dealt. 
