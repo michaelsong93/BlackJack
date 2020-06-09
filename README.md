@@ -29,8 +29,8 @@ MCIT591 final-project-team73game created by GitHub Classroom
 - Game is also set up by default to play 10 rounds (or when reserve runs out, whichever happens first).
 - These default values can be updated in GameRunner.java file.
 - Please note that we have tried to accomodate different computer screen resolutions with a current width of 1280 pixels by a length of 700 pixels (the most typical screen resolution is 1366 x 768).
-- Please ensure that you have UTF-8 enabled. You can check by navigating in Eclipse the following way (also shown in screenshot): Window > Preferences > General > Workspace, set Text file encoding to Other : UTF-8
-![](UTF-8_Support_Screenshot.png)
+- Please ensure that you have UTF-8 enabled. You can check by navigating in Eclipse the following way (also shown in screenshot): Window > Preferences > General > Workspace, set Text file encoding to Other : ![UTF-8_Support_Screenshot](https://user-images.githubusercontent.com/44761887/84121199-c87ec900-aa71-11ea-8dd7-bcc4d9dcc358.png)
+
 - Game play is similar to casino games, with two exceptions:
   * No Blackjack insurance is offered
   * Maximum of five cards per hand
