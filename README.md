@@ -42,7 +42,7 @@ MCIT591 final-project-team73game created by GitHub Classroom
 3. After clicking "run" you will be prompted with a pop-up message that prompts you to play the game. Below is a screenshot:
 ![welcomeScreen](https://user-images.githubusercontent.com/44761887/84121395-172c6300-aa72-11ea-98ed-6e510c399f27.png)
 4. After clicking the "OK" button a playing board will pop-up. Below is a screenshot:
-![](InitialBoardScreen.png)
+![InitialBoardScreen](https://user-images.githubusercontent.com/44761887/84121528-417e2080-aa72-11ea-8ffd-00f6eab4c010.png)
 5. In order to start playing the game, the player needs to select a Betting option of $5, 10, 15 or $20, and plays 10 rounds (as default) of Blackjack against the computer Dealer. Following this selection the player then clicks the "Bet" button in order for the initial cards to be dealt. 
 6. Following the initial dealt cards, the player will then decide whether to click the "Hit" button to draw another card, or "Stay" to stop drawing cards.
 7. Upon conclusion of the round the player's score will be calculated to determine if they won, lost, or tied the Dealer. Depending on the round outcome, the player's reserve will be adjusted automatically as well. The game will end after 10 rounds (as default) or when the Player runs out of money, whichever comes first. Insurance, doubling, and splitting not allowed.
